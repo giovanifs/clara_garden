@@ -1,0 +1,86 @@
+[
+  {
+    "productId": 1,
+    "id": 1,
+    "title": "Helecho",
+    "price": 800,
+    "imageURL": "img/product-img/product1.jpg"
+  },
+  {
+    "productId": 1,
+    "id": 2,
+    "title": "Clavel",
+    "price": 300,
+    "imageURL": "img/product-img/product2.jpg"
+  },
+  {
+    "productId": 1,
+    "id": 3,
+    "title": "Rosal",
+    "price": 200,
+    "imageURL": "img/product-img/product3.jpg"
+  },
+  {
+    "productId": 1,
+    "id": 4,
+    "title": "Begonia",
+    "price": 700,
+    "imageURL": "img/product-img/product4.jpg"
+  },
+  {
+    "productId": 1,
+    "id": 5,
+    "title": "Arce japonés",
+    "price": 400,
+    "imageURL": "img/product-img/product5.jpg"
+  },
+  {
+    "productId": 1,
+    "id": 6,
+    "title": "Lirio de agua",
+    "price": 350,
+    "imageURL": "img/product-img/product6.jpg"
+  },
+  {
+    "productId": 1,
+    "id": 7,
+    "title": "Petunia",
+    "price": 250,
+    "imageURL": "img/product-img/product1.jpg"
+  },
+  {
+    "productId": 1,
+    "id": 8,
+    "title": "Coleos",
+    "price": 300,
+    "imageURL": "img/product-img/product2.jpg"
+  },
+  {
+    "productId": 1,
+    "id": 9,
+    "title": "Bambú",
+    "price": 900,
+    "imageURL": "img/product-img/product3.jpg"
+  },
+  {
+    "productId": 1,
+    "id": 10,
+    "title": "Echeveria",
+    "price": 100,
+    "imageURL": "img/product-img/product4.jpg"
+  },
+  {
+    "productId": 1,
+    "id": 11,
+    "title": "Gerbera",
+    "price": 200,
+    "imageURL": "img/product-img/product5.jpg"
+  },
+  {
+    "productId": 1,
+    "id": 12,
+    "title": "Aster",
+    "price": 380,
+    "imageURL": "img/product-img/product6.jpg"
+  }
+]
